@@ -8,8 +8,12 @@ gemspec
 gem "appraisal", require: false
 gem "capybara", require: false
 gem "combustion"
+gem "puma"
 gem "rake", "~> 13.0"
 gem "rspec", "~> 3.0", require: false
 gem "rubocop", require: false
 gem "rubocop-performance", require: false
 gem "rubocop-rspec", require: false
+gem "sqlite3"
+
+gem "lookbook", require: false, group: :development
