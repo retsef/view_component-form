@@ -235,6 +235,7 @@ DEPENDENCIES
   combustion
   lookbook
   puma
+  rails
   rake (~> 13.0)
   rspec (~> 3.0)
   rubocop
