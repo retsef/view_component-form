@@ -242,6 +242,7 @@ DEPENDENCIES
   rubocop-performance
   rubocop-rspec
   sqlite3
+  view_component
   view_component-form!
 
 BUNDLED WITH
